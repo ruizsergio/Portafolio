@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.4be64b51.chunk.css",
-    "main.js": "/Portafolio/static/js/main.449a5dec.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.449a5dec.chunk.js.map",
-    "runtime-main.js": "/Portafolio/static/js/runtime-main.bb45118b.js",
-    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.bb45118b.js.map",
+    "main.js": "/Portafolio/static/js/main.d44865f9.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.d44865f9.chunk.js.map",
+    "runtime-main.js": "/Portafolio/static/js/runtime-main.00d9540d.js",
+    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.00d9540d.js.map",
     "static/css/2.18de13e2.chunk.css": "/Portafolio/static/css/2.18de13e2.chunk.css",
-    "static/js/2.2ade51ef.chunk.js": "/Portafolio/static/js/2.2ade51ef.chunk.js",
-    "static/js/2.2ade51ef.chunk.js.map": "/Portafolio/static/js/2.2ade51ef.chunk.js.map",
-    "static/js/3.dc20f17d.chunk.js": "/Portafolio/static/js/3.dc20f17d.chunk.js",
-    "static/js/3.dc20f17d.chunk.js.map": "/Portafolio/static/js/3.dc20f17d.chunk.js.map",
+    "static/js/2.b5aac425.chunk.js": "/Portafolio/static/js/2.b5aac425.chunk.js",
+    "static/js/2.b5aac425.chunk.js.map": "/Portafolio/static/js/2.b5aac425.chunk.js.map",
+    "static/js/3.f6c8693e.chunk.js": "/Portafolio/static/js/3.f6c8693e.chunk.js",
+    "static/js/3.f6c8693e.chunk.js.map": "/Portafolio/static/js/3.f6c8693e.chunk.js.map",
     "index.html": "/Portafolio/index.html",
     "service-worker.js": "/Portafolio/service-worker.js",
     "service-worker.js.map": "/Portafolio/service-worker.js.map",
     "static/css/2.18de13e2.chunk.css.map": "/Portafolio/static/css/2.18de13e2.chunk.css.map",
     "static/css/main.4be64b51.chunk.css.map": "/Portafolio/static/css/main.4be64b51.chunk.css.map",
-    "static/js/2.2ade51ef.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.2ade51ef.chunk.js.LICENSE.txt",
+    "static/js/2.b5aac425.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.b5aac425.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/Portafolio/static/media/bootstrap-icons.0f69dcdb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb45118b.js",
+    "static/js/runtime-main.00d9540d.js",
     "static/css/2.18de13e2.chunk.css",
-    "static/js/2.2ade51ef.chunk.js",
+    "static/js/2.b5aac425.chunk.js",
     "static/css/main.4be64b51.chunk.css",
-    "static/js/main.449a5dec.chunk.js"
+    "static/js/main.d44865f9.chunk.js"
   ]
 }
