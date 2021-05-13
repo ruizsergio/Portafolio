@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.3b1f9cdc.chunk.css",
-    "main.js": "/Portafolio/static/js/main.cdfbf7c1.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.cdfbf7c1.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.02f3d191.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.02f3d191.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.87058ae0.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.87058ae0.js.map",
     "static/css/2.18de13e2.chunk.css": "/Portafolio/static/css/2.18de13e2.chunk.css",
@@ -41,7 +41,7 @@
     "static/media/App.css": "/Portafolio/static/media/fondo.cedb6bfb.png",
     "static/media/bootstrap-icons.css": "/Portafolio/static/media/bootstrap-icons.0f69dcdb.woff",
     "static/media/chart.d6c898ce.jpg": "/Portafolio/static/media/chart.d6c898ce.jpg",
-    "static/media/propuesta.2043b705.png": "/Portafolio/static/media/propuesta.2043b705.png",
+    "static/media/propuesta.1ec50b15.png": "/Portafolio/static/media/propuesta.1ec50b15.png",
     "static/media/remesas.3976631a.jpg": "/Portafolio/static/media/remesas.3976631a.jpg"
   },
   "entrypoints": [
@@ -49,6 +49,6 @@
     "static/css/2.18de13e2.chunk.css",
     "static/js/2.65b1fe52.chunk.js",
     "static/css/main.3b1f9cdc.chunk.css",
-    "static/js/main.cdfbf7c1.chunk.js"
+    "static/js/main.02f3d191.chunk.js"
   ]
 }
